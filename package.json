@@ -1,0 +1,20 @@
+{
+  "name": "discord-kari-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FMGordillo/discord-kari-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FMGordillo/discord-kari-bot/issues"
+  },
+  "homepage": "https://github.com/FMGordillo/discord-kari-bot#readme"
+}
